@@ -1,0 +1,1 @@
+# What are classes and their private, public and protected properties
